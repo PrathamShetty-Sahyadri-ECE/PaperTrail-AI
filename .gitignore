@@ -1,0 +1,18 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local research PDFs and generated reports
+papers/*.pdf
+papers/*.txt
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Editor settings
+.vscode/
