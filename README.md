@@ -4,6 +4,14 @@ PaperTrail AI is a Python-based web application that helps users explore technic
 
 Built with **Python, Streamlit, and PyMuPDF**, the application provides a simple interface for uploading multiple research papers, searching their contents, identifying relevant passages, and downloading search reports.
 
+## 🚀 Live Demo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://papertrail-ai-pxaixmabi25jrmhlvyszw4.streamlit.app/)
+
+Try PaperTrail AI: [Open the live application](https://papertrail-ai-pxaixmabi25jrmhlvyszw4.streamlit.app/)
+
+Upload research PDFs, search their contents, explore page-level results, filter and rank matching papers, and download search reports.
+
 ## ✨ Features
 
 - **Multiple PDF Uploads:** Upload multiple research papers through the web interface.
